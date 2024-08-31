@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Balt-6" modversion="1.0.7" corepackage="False" gameversion="1.5.9.2">
+<contentpackage name="Balt-6" modversion="1.0.8" corepackage="False" gameversion="1.5.9.2">
   <Submarine file="%ModDir%/Balt-6.sub" />
 </contentpackage>
